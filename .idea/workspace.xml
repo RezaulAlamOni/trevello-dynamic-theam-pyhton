@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36aa9a38-a5c8-4dff-9dd3-e2c1c5c0362b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/index-2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travello/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travello/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travello/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travello/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +35,12 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ReZauL ALaM oNi\PycharmProjects\Travel\resources" />
       <recent name="C:\Users\ReZauL ALaM oNi\PycharmProjects\Travel\Templates" />
+      <recent name="C:\Users\ReZauL ALaM oNi\PycharmProjects\Travel\resources" />
       <recent name="C:\Users\ReZauL ALaM oNi\PycharmProjects\Travel\Travello" />
     </key>
   </component>
