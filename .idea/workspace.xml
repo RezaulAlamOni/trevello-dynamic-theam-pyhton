@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36aa9a38-a5c8-4dff-9dd3-e2c1c5c0362b" name="Default Changelist" comment="" />
+    <list default="true" id="36aa9a38-a5c8-4dff-9dd3-e2c1c5c0362b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Travello/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travel/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travello/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travello/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lhxOHJLoJOwWxpmdR9bJAOckV7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +26,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ReZauL ALaM oNi\PycharmProjects\Travel\Templates" />
+      <recent name="C:\Users\ReZauL ALaM oNi\PycharmProjects\Travel\Travello" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
