@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="36aa9a38-a5c8-4dff-9dd3-e2c1c5c0362b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/destination_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/destination_details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/elements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/single-blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/single-blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/travel_destination.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/travel_destination.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travello/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travello/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travello/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travello/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Travello/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travello/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
