@@ -4,9 +4,7 @@
     <list default="true" id="36aa9a38-a5c8-4dff-9dd3-e2c1c5c0362b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Travello/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travello/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Travello/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travello/views.py" afterDir="false" />
     </list>
@@ -35,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
