@@ -1,11 +1,11 @@
 from django.db import models
 
+
 # Create your models here.
 
-class Destination :
-    id :int
-    mame : str
-    img : str
-    desc : str
-    places : int
-    price : int
+class Destination(models.Model):
+    mame = models.CharField(max_length=100)
+    img = models.ImageField(upload_to='picss')
+    desc = models.TextField()
+    places = models.TextField()
+    price = models.IntegerField()
