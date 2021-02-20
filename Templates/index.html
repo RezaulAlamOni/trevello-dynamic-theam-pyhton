@@ -100,11 +100,15 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single_destination">
                     <div class="thumb">
-                        <img src="{% static 'img/destination/'|add:dest.img %}" alt="">
+<!--                        <img src="{% static 'img/destination/'|add:dest.img %}" alt="">-->
+                        <img src="{{ dest.img.url }}" alt="">
                     </div>
                     <div class="content">
-                        <p class="d-flex align-items-center">{{ dest.name }} <a href="travel_destination"> {{ dest.places }} Places</a></p>
+                        <p class="d-flex align-items-center">{{ dest.mame }} <a href="travel_destination"> {{ dest.places }} Places</a></p>
                     </div>
+                </div>
+                <div>
+                    {{ dest.description }}
                 </div>
             </div>
             {% endfor %}
