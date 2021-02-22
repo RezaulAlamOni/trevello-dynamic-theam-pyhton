@@ -28,5 +28,3 @@ def travel_destination(request):
 
 def destination_details(request):
     return render(request, 'destination_details.html');
-
-

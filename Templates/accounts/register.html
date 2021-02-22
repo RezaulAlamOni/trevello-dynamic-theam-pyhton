@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+<div class="container">
+    <h2>Register new User</h2>
+    <form action="register" method="post">
+        {{ csrf_token }}
+        <div class="form-group">
+            <label for="email">User Name :</label>
+            <input type="text" class="form-control" placeholder="Enter username" autocomplete="new-value" name="username">
+        </div>
+        <div class="form-group">
+            <label for="pwd">First Name:</label>
+            <input type="text" class="form-control" placeholder="Enter First Name" name="f_name">
+        </div>
+        <div class="form-group">
+            <label for="pwd">Last Name:</label>
+            <input type="text" class="form-control" placeholder="Enter Last Name" name="l_name">
+        </div>
+        <div class="form-group">
+            <label for="email">Email address:</label>
+            <input type="email" class="form-control" placeholder="Enter email" name="email">
+        </div>
+        <div class="form-group">
+            <label for="pwd">Password:</label>
+            <input type="password" class="form-control" placeholder="Enter password" name="pwd">
+        </div>
+        <div class="form-group">
+            <label for="pwd">COnfirm Password:</label>
+            <input type="password" class="form-control" placeholder="Confirm password" name="pwd2">
+        </div>
+        <div class="form-group form-check">
+            <label class="form-check-label">
+                <input class="form-check-input" type="checkbox"> Remember me
+            </label>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+</div>
+
+{% endblock %}
